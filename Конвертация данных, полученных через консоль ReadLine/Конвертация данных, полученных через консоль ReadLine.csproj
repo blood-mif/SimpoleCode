@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>Конвертация_данных__полученных_через_консоль_ReadLine</RootNamespace>
+  </PropertyGroup>
+
+</Project>

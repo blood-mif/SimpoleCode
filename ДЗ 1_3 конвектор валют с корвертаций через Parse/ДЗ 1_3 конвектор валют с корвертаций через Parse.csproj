@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>ДЗ_1_3_конвектор_валют_с_корвертаций_через_Parse</RootNamespace>
+  </PropertyGroup>
+
+</Project>
